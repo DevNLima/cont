@@ -2,7 +2,7 @@
 ###################################################################
 # PROGRAMA PARA EXTRAIR O ESTOQUE DA EFD E CONVERTER EM CSV/Excel
 #
-# Code by FernadoLima <lima.r.nando@gmail.com>
+# CodeBy FernadoLima <lima.r.nando@gmail.com>
 # Version 0.1
 # Date 2024-11-26
 #
