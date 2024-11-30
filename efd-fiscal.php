@@ -1,4 +1,4 @@
-<?php
+<?php #8.2
 ###################################################################
 # PROGRAMA PARA EXTRAIR O ESTOQUE DA EFD E CONVERTER EM CSV/Excel
 #
